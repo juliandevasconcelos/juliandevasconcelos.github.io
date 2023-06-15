@@ -1,0 +1,12 @@
+
+CLIENTE:
+email: cliente@rk.com
+contraseña: cliente123
+
+EMPLEADO:
+email: empleado@rk.com
+contraseña: empleado123
+
+COORDINADOR:
+email: coordinador@rk.com
+contraseña: coordinador123

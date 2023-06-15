@@ -1,0 +1,63 @@
+.carta{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#logonav{
+    margin-left: 5%;
+}
+.form-floating{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.form-check{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#iniciarsesion{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+#registrarse{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+button.btn.btn-primary{
+    background-color: rgb(80, 68, 255);
+}
+.iniciosesion{
+    margin-top: 8%;
+}
+.registro{
+    margin-top: 8%;
+}
+h3{
+    text-align: center;
+
+}
+p.footer{
+    margin-top: 8%;
+    text-align: center;
+}
+.ticket{
+    margin-top: 8%;
+}
+#enviar{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+.formulario{
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+button.navbar-toggler{
+    border-color: #5044ff;
+}
